@@ -1,5 +1,3 @@
-
-
 ###
 
 <h1 align="center">Hello, I am 22fqr 🔥</h1>
