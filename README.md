@@ -3,15 +3,6 @@
 </div>
 
 ###
-<h3 align="centre">Number of Visitors</h3>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:22fqr?theme=minecraft&padding=2&offset=1&scale=1&align=top&pixelated=1&darkmode=0"  />
-</div>
-
-###
 
 <h1 align="center">Hello, I am 22fqr</h1>
 
@@ -50,3 +41,10 @@
 </div>
 
 ###
+<h3 align="centre">Number of Visitors</h3>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:22fqr?theme=minecraft&padding=2&offset=1&scale=1&align=top&pixelated=1&darkmode=0"  />
+</div>
